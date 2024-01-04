@@ -58,9 +58,9 @@ Ensure you have the following prerequisites installed before getting started:
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/your-repo.git
-
-
+```bash
+git clone https://github.com/rajrules21/aws-lambda-projects.git
+```
 
 ## Contribution Guidelines
 
@@ -71,8 +71,9 @@ Click the "Fork" button on the top right of the repository to create your copy.
 
 Clone Your Fork:
 
-git clone https://github.com/your-username/your-repo.git
-
+```bash
+git clone https://github.com/rajrules21/aws-lambda-projects.git
+```
 You can also suggest more project ideas as encountered in your employment.
 
 Thank you for your contributions!
