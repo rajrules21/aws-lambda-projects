@@ -14,7 +14,7 @@ This repository also contains some future project ideas which can be undertaken 
 - Project 6: EC2 Auto-Start-Stop Scheduler
 - Project 7: Automated EC2 Instance Resizer
 - Project 8: EC2 Resource Tagger
-- Project 9: Automated EC2 Snapshot Management
+- [Project 9: Automated EC2 Snapshot Management](https://github.com/rajrules21/aws-lambda-projects/tree/9a7b070dac9228df504a9307c3e27ba94677afd0/Project-9)
 - Project 10: EC2 Inventory Tracker
 - Project 11: RDS Inventory Tracker
 - Project 12: Cross-Region EC2 Snapshot Replication
