@@ -2,7 +2,7 @@ AWS Lambda Projects
 
 Welcome to my repository showcasing a collection of AWS Lambda projects. Explore a curated collection of AWS Lambda projects, each meticulously crafted to showcase my proficiency in leveraging serverless computing with AWS. From orchestrating seamless interactions between Lambda and S3 to orchestrating complex workflows with EC2, RDS, VPC, API Gateway, SAM Framework, and Secrets Manager, these projects offer hands-on insights into the versatile applications of AWS Lambda in real-world scenarios.
 
-This repository also contains some future project ideas which can be undertaken to improve AWS Lambda knowledge with indemand services and skills like CICD, Devops, Docker and Kubernetes. THis projects will be implemented and tried on a later date which is yet undecided.
+This repository also contains some future project ideas which can be undertaken to improve AWS Lambda knowledge with in-demand services and skills like CICD, Devops, Docker and Kubernetes. This projects will be implemented and tried on a later date which is yet undecided.
 
 ## Projects
 
