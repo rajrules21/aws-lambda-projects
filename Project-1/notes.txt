@@ -1,0 +1,7 @@
+Note:- Python 3.12 Runtime in AWS Lambda does not have many libraries inbuilt as of yet so i have used AWS ARN for libraries for Pillow in this project. 
+       Please find file named "klayers-ap-south-1-p3.12" which contains the AWS ARNs for libraries for python 3.12
+
+        You can use the create_s3_bucket.py file to create S# buckets from command-line interface.
+
+        s3_access_policy is the access policy attached to the IAM role used for Project 1. 
+        Other than this we provided, AWS Cloudwatch permissions also to IAM role for crreation of Logs Group.
