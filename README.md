@@ -7,7 +7,7 @@ This repository also contains some future project ideas which can be undertaken 
 ## Projects
 
 - [Project 1: Image Processing with AWS Lambda + S3](https://github.com/rajrules21/aws-lambda-projects/tree/a5501b8dda1265edf4c6a076485deb8b1abb4b88/Project-1)
-- Project 2: S3 Event Notification System with SES
+- [Project 2: S3 Event Notification System with SES](https://github.com/rajrules21/aws-lambda-projects/tree/d1e2cca0863b521f5e4720e054452e36bca99129/Project-2)
 - Project 3: S3 Data Archiving
 - Project 4: Serverless File Converter
 - Project 5: Launch an EC2 Instance with Lambda and install Apache Web Server
