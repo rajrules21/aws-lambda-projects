@@ -2,12 +2,12 @@ AWS Lambda Projects
 
 Welcome to my repository showcasing a collection of AWS Lambda projects. Explore a curated collection of AWS Lambda projects, each meticulously crafted to showcase my proficiency in leveraging serverless computing with AWS. From orchestrating seamless interactions between Lambda and S3 to orchestrating complex workflows with EC2, RDS, VPC, API Gateway, SAM Framework, and Secrets Manager, these projects offer hands-on insights into the versatile applications of AWS Lambda in real-world scenarios.
 
-This repository also contains some future project ideas which can be undertaken to improve AWS Lambda knowledge with indemand services and skills like CICD, Devops, Docker and Kubernetes. THis projects will be implemented and tried on a later date which is yet undecided.
+This repository also contains some future project ideas which can be undertaken to improve AWS Lambda knowledge with in-demand services and skills like CICD, Devops, Docker and Kubernetes. This projects will be implemented and tried on a later date which is yet undecided.
 
 ## Projects
 
 - [Project 1: Image Processing with AWS Lambda + S3](https://github.com/rajrules21/aws-lambda-projects/tree/a5501b8dda1265edf4c6a076485deb8b1abb4b88/Project-1)
-- Project 2: S3 Event Notification System with SES
+- [Project 2: S3 Event Notification System with SES](https://github.com/rajrules21/aws-lambda-projects/tree/d1e2cca0863b521f5e4720e054452e36bca99129/Project-2)
 - Project 3: S3 Data Archiving
 - Project 4: Serverless File Converter
 - Project 5: Launch an EC2 Instance with Lambda and install Apache Web Server
