@@ -25,7 +25,7 @@ To deploy and use the automated EC2 snapshot management system:
 4. Verify that the IAM role associated with the Lambda function has the required permissions to describe EC2 instances, create snapshots, and manage snapshot lifecycles.
 5. Test the system to ensure snapshots are created and managed as expected.
 
-** Note:- We are not using AWS Cloudwatch Events to trigger the Lambda function since we want the trigger to work on our local time zone and CLoudwatch EVents work on UTC timezone offsets.
+** Note:- We are not using AWS Cloudwatch Events to trigger the Lambda function since we want the trigger to work on our local time zone and Cloudwatch Events work on UTC timezone offsets.
 
 ## Configuration
 - Lambda Function: Configure the Lambda function with appropriate environment variables, such as retention periods and snapshot limits.
