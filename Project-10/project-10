@@ -1,0 +1,41 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "VisualEditor0",
+			"Effect": "Allow",
+			"Action": [
+				"events:PutEvents",
+				"events:DescribeRule",
+				"ec2:DescribeInstances",
+				"logs:DescribeLogGroups",
+				"ec2:DescribeTags",
+				"logs:DescribeLogStreams",
+				"events:PutRule",
+				"ec2:DescribeRegions",
+				"logs:CreateLogGroup",
+				"logs:PutLogEvents",
+				"events:PutTargets",
+				"logs:CreateLogStream",
+				"events:ListRuleNamesByTarget",
+				"ec2:DescribeAvailabilityZones",
+				"ec2:DescribeVpcs",
+				"ec2:DescribeVolumes",
+				"ec2:DescribeInstanceTypes",
+				"events:ListRules",
+				"events:ListTargetsByRule",
+				"ec2:DescribeInstanceStatus"
+			],
+			"Resource": "*"
+		},
+		{
+			"Sid": "VisualEditor1",
+			"Effect": "Allow",
+			"Action": [
+				"s3:PutObject",
+				"s3:GetObject"
+			],
+			"Resource": "arn:aws:s3:::lambda-project-10/*"
+		}
+	]
+}
