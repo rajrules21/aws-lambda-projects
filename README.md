@@ -15,7 +15,7 @@ This repository also contains some future project ideas which can be undertaken 
 - Project 7: Automated EC2 Instance Resizer
 - Project 8: EC2 Resource Tagger
 - [Project 9: Automated EC2 Snapshot Management](https://github.com/rajrules21/aws-lambda-projects/tree/9a7b070dac9228df504a9307c3e27ba94677afd0/Project-9)
-- Project 10: EC2 Inventory Tracker
+- [Project 10: EC2 Inventory Tracker](https://github.com/rajrules21/aws-lambda-projects/tree/7502dd2fde620e73942c2b3b5dc9d777d73de113/Project-10)
 - Project 11: RDS Inventory Tracker
 - Project 12: Cross-Region EC2 Snapshot Replication
 - Project 13: File Upload and Processing Pipeline + S3 + DynamoDB
